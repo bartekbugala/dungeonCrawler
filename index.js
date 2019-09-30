@@ -74,7 +74,7 @@ const player = {
     console.log('\x1b[42m\x1b[30m' + '                                         ' + '\x1b[37m\x1b[40m');
     console.log('\x1b[42m\x1b[30m' + ' *  *  *  *  *  * *  *  *  *  *  *  *  * ' + '\x1b[37m\x1b[40m');
     console.log('  ');
-    colorNodeLog('For help wirte help or h', 'magenta');
+    colorNodeLog('For help write help or h', 'magenta');
     logPlayerPosition();
 }
 // Prompt user to input data in console.
