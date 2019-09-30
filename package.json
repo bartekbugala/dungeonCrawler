@@ -1,0 +1,17 @@
+{
+  "name": "endlessdungeon",
+  "version": "1.0.0",
+  "description": "cli generated dungeon crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "dungeon",
+    "crawler",
+    "random"
+  ],
+  "author": "BB",
+  "license": "ISC"
+}
